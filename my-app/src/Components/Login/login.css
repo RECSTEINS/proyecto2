@@ -1,0 +1,111 @@
+.hero-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    background:#140006;
+    
+}
+
+.content-login{
+    
+}
+
+/* Estilo del formulario */
+.login-form {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+    padding-top: 150px;
+    max-width: 400px;
+    height: 600px;
+    width: 1000px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Título del formulario */
+.login-title {
+    font-size: 1.8rem;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+/* Estilo para cada grupo del formulario */
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Etiquetas del formulario */
+.form-label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 1rem;
+    color: #555555;
+}
+
+/* Entradas del formulario */
+.form-input {
+    width: 100%;
+    padding: 10px 12px;
+    font-size: 1rem;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease-in-out;
+}
+
+.form-input:focus {
+    border-color: #4a90e2;
+    outline: none;
+    box-shadow: 0 0 4px rgba(74, 144, 226, 0.5);
+}
+
+/* Botón de enviar */
+.submit-button {
+    background-color: #4a90e2;
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    width: 100%;
+}
+
+.submit-button:hover {
+    background-color: #357ab8;
+}
+
+.background-image-login{
+    width: 2000px;
+    margin-top: -100px;
+    height: 1000px;
+}
+
+/* Media query para pantallas pequeñas */
+@media (max-width: 768px) {
+    .hero-container {
+        padding: 10px;
+    }
+
+    .login-form {
+        padding: 20px;
+    }
+
+    .login-title {
+        font-size: 1.5rem;
+    }
+
+    .form-input {
+        font-size: 0.9rem;
+    }
+
+    .submit-button {
+        font-size: 0.9rem;
+    }
+}

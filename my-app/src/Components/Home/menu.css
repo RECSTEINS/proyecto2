@@ -1,0 +1,1918 @@
+.logo-icon1 {
+    width: 75px;
+    height: 75px;
+    position: relative;
+    object-fit: cover;
+  }
+  .logos {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5px 18px;
+    cursor: pointer;
+  }
+  .inicio1 {
+    align-self: stretch;
+    position: relative;
+  }
+  .nav-link-items4 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--padding-3xl) var(--padding-5xs);
+    cursor: pointer;
+  }
+  .men4 {
+    align-self: stretch;
+    position: relative;
+    text-decoration: underline;
+  }
+  .nav-link-items5 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--padding-3xl) var(--padding-5xs);
+    cursor: pointer;
+  }
+  .reservacin2 {
+    align-self: stretch;
+    position: relative;
+  }
+  .nav-link-items6 {
+    width: 256px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--padding-3xl) var(--padding-5xs);
+    box-sizing: border-box;
+    cursor: pointer;
+  }
+  .contacto1 {
+    align-self: stretch;
+    position: relative;
+  }
+  .nav-link-items7 {
+    width: 256px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--padding-3xl) var(--padding-5xs);
+    box-sizing: border-box;
+    cursor: pointer;
+  }
+  .barra-de-navegacin1,
+  .nav-links1 {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .nav-links1 {
+    margin: 0;
+    width: 832px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-13xl);
+    text-align: center;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .barra-de-navegacin1 {
+    align-self: stretch;
+    box-shadow: 0 4px 4px rgba(12, 4, 3, 0.25);
+    background-color: var(--color-seashell);
+    overflow: hidden;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 var(--padding-93xl);
+    box-sizing: border-box;
+    top: 0;
+    z-index: 99;
+    position: sticky;
+    gap: var(--gap-xl);
+  }
+  .menu1 {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+  }
+  .h1 {
+    align-self: stretch;
+    background-color: var(--negrorosa);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs) 860px;
+    text-align: center;
+    font-size: var(--h1-desktop-size);
+    color: var(--blancorosa);
+    font-family: var(--h1-desktop);
+  }
+  .entradas {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .subtitle-items,
+  .subtitulo {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .subtitle-items {
+    width: 527px;
+    border-radius: var(--br-5xs);
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .subtitulo {
+    align-self: stretch;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--padding-138xl-5) var(--padding-xl);
+    box-sizing: border-box;
+    background-image: url(./imag/MENU/ENTRADAS.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+
+
+.subtitulo7 {
+    align-self: stretch;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--padding-138xl-5) var(--padding-xl);
+    box-sizing: border-box;
+    background-image: url(./imag//MENU/PALTILLOS.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 900px;
+  }
+  .label7 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label6 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .blank-line2,
+  .con-pico-de,
+  .frijol-negro-quesillo,
+  .guacamole-tradicional-100,
+  .tlayuda-de-picaa {
+    margin: 0;
+  }
+  .guacamole-tradicional-100-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 335px;
+    max-width: 100%;
+  }
+  .blank-line3,
+  .con-tortillas-de,
+  .con-tortillas-de1,
+  .guacamole-con-chicharrn,
+  .queso-fundido-con {
+    margin: 0;
+  }
+  .guacamole-con-chicharrn-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 335px;
+    max-width: 100%;
+  }
+  .entries-description-items,
+  .entries-title-items {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .entries-description-items {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 16px 32px;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .entries-title-items {
+    width: 1696px;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+  }
+  .label9 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label8 {
+    flex: 1;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .blank-line4,
+  .blank-line5,
+  .chicharrones-de-salmn,
+  .con-salsa-trtara,
+  .de-maz-azul,
+  .tostadas-de-atn {
+    margin: 0;
+  }
+  .tostadas-de-atn-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .aguacate-ajo-cebolla,
+  .aguachile-180-g,
+  .aguachile-verde-naranja,
+  .blank-line6,
+  .tiradito-de-salmn {
+    margin: 0;
+  }
+  .aguachile-180-g-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .entries-description-items1,
+  .entries-description-items2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .entries-description-items2 {
+    gap: var(--gap-13xl);
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .entries-description-items1 {
+    width: 1696px;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+    min-height: 460px;
+  }
+  .label11 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label10 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .blank-line7,
+  .con-con-chimichurri,
+  .empanadas-2-pza,
+  .queso-parmesano-pimienta,
+  .torre-de-papas {
+    margin: 0;
+  }
+  .torre-de-papas-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .albondigas-de-res,
+  .blank-line8,
+  .queso-cilantro-160,
+  .queso-gouda-empanizado,
+  .salsa-de-chipotle {
+    margin: 0;
+  }
+  .albondigas-de-res-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .entries-description-items4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: var(--gap-13xl);
+    max-width: 100%;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .entries-description-items3 {
+    width: 1696px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+    max-width: 100%;
+  }
+  .entradas1,
+  .frame-entradas {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+  }
+  .entradas1 {
+    justify-content: flex-start;
+    padding: 0 var(--padding-xl) var(--padding-13xl);
+    box-sizing: border-box;
+    gap: var(--gap-base);
+    text-align: left;
+    font-size: var(--h3-semibold-size);
+  }
+  .frame-entradas {
+    background-color: var(--blancorosa);
+    justify-content: center;
+    gap: var(--gap-13xl);
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--h2-semibold-size);
+    color: var(--blancorosa);
+    font-family: var(--h3-semibold);
+  }
+  .platillos {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .dishes-title-item {
+    width: 527px;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 100%;
+    flex-shrink: 0;
+  }
+  .dishes-images-icon,
+  .dishes-images-icon1,
+  .dishes-images-icon2,
+  .dishes-images-icon3 {
+    height: 369px;
+    width: 369px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .dishes-images-icon1,
+  .dishes-images-icon2,
+  .dishes-images-icon3 {
+    width: 413px;
+  }
+  .dishes-images-icon2,
+  .dishes-images-icon3 {
+    width: 427px;
+  }
+  .dishes-images-icon3 {
+    width: 417px;
+  }
+  .dishes-image-items,
+  .subtitulo1 {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .dishes-image-items {
+    width: 1698px;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+    gap: var(--gap-xl);
+  }
+  .subtitulo1 {
+    align-self: stretch;
+    height: 400px;
+    background-color: var(--blancorosa);
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    gap: 10px;
+  }
+  .label13 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label12 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+    box-sizing: border-box;
+  }
+  .a-la-parrilla,
+  .asada-con-mole,
+  .blank-line10,
+  .blank-line11,
+  .blank-line12,
+  .blank-line9,
+  .cazuela-de-cochinita,
+  .con-pur-de,
+  .filete-chemita-240,
+  .frijoles-refritos-salsa,
+  .pechuga-de-pollo,
+  .receta-original-del,
+  .sabana-de-res,
+  .salmn-zarandeado-250 {
+    margin: 0;
+  }
+  .pechuga-de-pollo-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 335px;
+    min-height: 576px;
+    max-width: 100%;
+  }
+  .blank-line13,
+  .blank-line14,
+  .blank-line15,
+  .camarones-al-ajillo,
+  .con-papas-asadas,
+  .con-papas-bravas,
+  .con-polvo-de,
+  .fetuccini-alfredo-con,
+  .pescado-a-la,
+  .pulpo-a-las,
+  .pur-de-papa {
+    margin: 0;
+  }
+  .pescado-a-la-container {
+    position: relative;
+    display: inline-block;
+    min-height: 432px;
+  }
+  .dishes-descriptions,
+  .dishes-labels {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .dishes-descriptions {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 16px 32px;
+    flex-shrink: 0;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .dishes-labels {
+    width: 1696px;
+    height: 697px;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+  }
+  .label15 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label14 {
+    flex: 1;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .blank-line16,
+  .blank-line17,
+  .con-costra-de,
+  .de-salmn-3,
+  .en-tortilla-de,
+  .en-tortilla-de1,
+  .gaoneras-de-rib,
+  .sonoritas-de-camarn {
+    margin: 0;
+  }
+  .de-salmn-3-container {
+    height: 360px;
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .blank-line18,
+  .de-rib-eye,
+  .en-tortilla-de2,
+  .quesabirrias-de-short,
+  .tacos-chicharron-4 {
+    margin: 0;
+  }
+  .quesabirrias-de-short-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .de-salmn-3-pzas-en-tortilla-d-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-13xl);
+    max-width: 100%;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .dishes-labels1,
+  .entradas2,
+  .frame-platillos {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .dishes-labels1 {
+    width: 1696px;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+  }
+  .entradas2,
+  .frame-platillos {
+    align-self: stretch;
+    flex-direction: column;
+  }
+  .entradas2 {
+    justify-content: flex-start;
+    padding: 0 var(--padding-xl) var(--padding-13xl);
+    box-sizing: border-box;
+    gap: var(--gap-base);
+    text-align: left;
+    font-size: var(--h3-semibold-size);
+    color: var(--blancorosa);
+  }
+  .frame-platillos {
+    background-color: var(--blancorosa);
+    justify-content: center;
+    gap: var(--gap-13xl);
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--h2-semibold-size);
+    color: var(--negrorosa);
+    font-family: var(--h3-semibold);
+  }
+  .cocteles {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .cocktail-title-item,
+  .subtitulo2 {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .cocktail-title-item {
+    width: 527px;
+    border-radius: var(--br-5xs);
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .subtitulo2 {
+    align-self: stretch;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--padding-138xl-5) var(--padding-xl);
+    box-sizing: border-box;
+    background-image: url(./imag/MENU/COCTELES.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .label17 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label16 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .axolote-albino,
+  .axolote-golden-albino,
+  .axolote-leucistico,
+  .axolote-melanoide,
+  .bacanora-45ml-campari,
+  .blank-line19,
+  .blank-line20,
+  .blank-line21,
+  .charanda-uruapan-blanco,
+  .sotol-nocheluna-45ml,
+  .tequila-don-julio {
+    margin: 0;
+  }
+  .axolote-leucistico-bacanora-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 335px;
+    min-height: 540px;
+    max-width: 100%;
+  }
+  .axolote-chimera,
+  .axolote-copper,
+  .axolote-harlequin,
+  .axolote-piebald,
+  .blank-line22,
+  .blank-line23,
+  .blank-line24,
+  .gin-california-nativo,
+  .mezcal-unin-joven,
+  .pox-siglo-cero,
+  .whisky-abasolo-45ml {
+    margin: 0;
+  }
+  .axolote-copper-whisky-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 335px;
+    min-height: 540px;
+    max-width: 100%;
+  }
+  .cocktail-descriptions,
+  .cocktails-labels {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .cocktail-descriptions {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 16px 32px;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .cocktails-labels {
+    width: 1696px;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+  }
+  .label19 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label18 {
+    flex: 1;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .blank-line25,
+  .blank-line26,
+  .holbox,
+  .mezcal-unin-45,
+  .punta-mita,
+  .ron-bacard-blanco,
+  .sayulita,
+  .tanqueray-london-dry {
+    margin: 0;
+  }
+  .sayulita-mezcal-unin-container {
+    height: 360px;
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .blank-line27,
+  .la-colorada,
+  .tequila-tradicional-plata,
+  .tequila-tradicional-plata1,
+  .zipolite {
+    margin: 0;
+  }
+  .la-colorada-tequila-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .cocktails-labels1,
+  .sayulita-mezcal-unin-45-ml-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .sayulita-mezcal-unin-45-ml-parent {
+    align-items: flex-start;
+    gap: var(--gap-13xl);
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .cocktails-labels1 {
+    width: 1696px;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+  }
+  .entradas3,
+  .frame-cocteles {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+  }
+  .entradas3 {
+    justify-content: flex-start;
+    padding: 0 var(--padding-xl) var(--padding-13xl);
+    box-sizing: border-box;
+    gap: var(--gap-base);
+    text-align: left;
+    font-size: var(--h3-semibold-size);
+  }
+  .frame-cocteles {
+    background-color: var(--blancorosa);
+    justify-content: center;
+    gap: var(--gap-13xl);
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--h2-semibold-size);
+    color: var(--blancorosa);
+    font-family: var(--h3-semibold);
+  }
+  .postres {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .postres-wrapper,
+  .subtitulo3 {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .postres-wrapper {
+    width: 527px;
+    border-radius: var(--br-5xs);
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .subtitulo3 {
+    align-self: stretch;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--padding-138xl-5) var(--padding-xl);
+    box-sizing: border-box;
+    background-image: url(./imag/MENU/POSTRES.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .label21 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label20 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .base-de-galleta,
+  .blank-line28,
+  .cheesecake-de-frutos,
+  .con-brownie-ganache-de-carame,
+  .pastel-de-chocolate {
+    margin: 0;
+  }
+  .pastel-de-chocolate-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 335px;
+    max-width: 100%;
+  }
+  .pastel-de-tres,
+  .servido-con-crema {
+    margin: 0;
+  }
+  .pastel-de-tres-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 335px;
+    max-width: 100%;
+  }
+  .label-parent,
+  .pastel-de-chocolate-con-browni-parent {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .pastel-de-chocolate-con-browni-parent {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 16px 32px;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .label-parent {
+    width: 1696px;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+  }
+  .label23 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label22 {
+    flex: 1;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .blank-line29,
+  .crujiente-de-nuez,
+  .flan,
+  .pay-de-queso,
+  .servido-con-caramelo {
+    margin: 0;
+  }
+  .flan-servido-con-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .helado-de-vainilla,
+  .pan-de-elote {
+    margin: 0;
+  }
+  .pan-de-elote-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .flan-servido-con-caramelo-liqu-parent,
+  .label-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .flan-servido-con-caramelo-liqu-parent {
+    align-items: flex-start;
+    gap: var(--gap-13xl);
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .label-group {
+    width: 1696px;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+    min-height: 460px;
+  }
+  .label25 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label24 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+  }
+  .blank-line30,
+  .con-frutos-rojos,
+  .los-churros,
+  .los-tradicionales-son,
+  .molten-de-chocolate {
+    margin: 0;
+  }
+  .molten-de-chocolate-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .blank-line31,
+  .degustacion-de-helados,
+  .helados-artesanales-de,
+  .platano-horneado,
+  .servido-con-helado {
+    margin: 0;
+  }
+  .platano-horneado-servido-container {
+    flex: 1;
+    position: relative;
+    display: inline-block;
+    min-width: 541px;
+    max-width: 100%;
+  }
+  .molten-de-chocolate-con-frutos-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: var(--gap-13xl);
+    max-width: 100%;
+    font-size: var(--p-regular-size);
+    color: var(--negrorosa);
+    font-family: var(--small-light);
+  }
+  .entradas4,
+  .frame-postres,
+  .label-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+  }
+  .label-container {
+    width: 1696px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-45xl);
+    box-sizing: border-box;
+    gap: var(--gap-45xl);
+  }
+  .entradas4,
+  .frame-postres {
+    align-self: stretch;
+    align-items: center;
+  }
+  .entradas4 {
+    justify-content: flex-start;
+    padding: 0 var(--padding-xl) var(--padding-13xl);
+    box-sizing: border-box;
+    gap: var(--gap-base);
+    text-align: left;
+    font-size: var(--h3-semibold-size);
+  }
+  .frame-postres {
+    background-color: var(--blancorosa);
+    justify-content: center;
+    gap: var(--gap-13xl);
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--h2-semibold-size);
+    color: var(--blancorosa);
+    font-family: var(--h3-semibold);
+  }
+  .bebidas {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .drinks-title-item,
+  .subtitulo4 {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .drinks-title-item {
+    width: 527px;
+    border-radius: var(--br-5xs);
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .subtitulo4 {
+    align-self: stretch;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--padding-138xl-5) var(--padding-xl);
+    box-sizing: border-box;
+    background-image: url(./imag/MENU/BEBIDAS.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .label27 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label26 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-5xs) var(--padding-base);
+  }
+  .fresa,
+  .horchata,
+  .jamaica,
+  .limonada,
+  .manzana,
+  .naranja,
+  .sandia {
+    margin-bottom: 0;
+  }
+  .naranja-sandia-manzana-fresa-l {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-13xl);
+  }
+  .naranja-sandia-manzana-container {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--p-regular-size);
+    font-family: var(--small-light);
+    color: var(--negrorosa);
+  }
+  .drink-categories {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-45xl);
+    min-width: 251px;
+    max-width: 256px;
+  }
+  .label29 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label28 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-5xs) var(--padding-base);
+  }
+  .coca-cola,
+  .coca-cola-light,
+  .coca-cola-sin,
+  .fresca,
+  .sidral-mundet,
+  .sprite,
+  .sprite-zero {
+    margin-bottom: 0;
+  }
+  .coca-cola-coca-cola-light-coca {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-13xl);
+  }
+  .coca-cola-coca-container {
+    align-self: stretch;
+    height: 288px;
+    position: relative;
+    font-size: var(--p-regular-size);
+    font-family: var(--small-light);
+    color: var(--negrorosa);
+    display: inline-block;
+  }
+  .drink-categories1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-45xl);
+    min-width: 251px;
+    max-width: 256px;
+  }
+  .label31 {
+    position: relative;
+    font-weight: 600;
+  }
+  .label30 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-5xs) var(--padding-base);
+  }
+  .americano,
+  .caf-caribe,
+  .capuchino,
+  .doble-capuchino,
+  .doble-expreso,
+  .expreso {
+    margin-bottom: 0;
+  }
+  .americano-expreso-capuchino-do {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-13xl);
+  }
+  .americano-expreso-capuchino-container {
+    align-self: stretch;
+    height: 288px;
+    position: relative;
+    font-size: var(--p-regular-size);
+    font-family: var(--small-light);
+    color: var(--negrorosa);
+    display: inline-block;
+  }
+  .drink-categories2 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-45xl);
+    min-width: 251px;
+    max-width: 256px;
+  }
+  .label33 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label32 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-5xs) var(--padding-base);
+  }
+  .especial-de-la,
+  .jamaica1,
+  .lavanda,
+  .limn,
+  .manzanilla,
+  .verde {
+    margin-bottom: 0;
+  }
+  .manzanilla-verde-lavanda-espec {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-13xl);
+  }
+  .manzanilla-verde-lavanda-container {
+    position: relative;
+    font-size: var(--p-regular-size);
+    font-family: var(--small-light);
+    color: var(--negrorosa);
+  }
+  .drink-categories3 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-45xl);
+    min-width: 251px;
+    max-width: 256px;
+  }
+  .label35 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .label34 {
+    align-self: stretch;
+    border-radius: var(--br-5xs);
+    background-color: var(--bebequenoquierenacentos);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-5xs) var(--padding-base);
+  }
+  .bonafont,
+  .ciel,
+  .epura,
+  .san-pellegrino {
+    margin-bottom: 0;
+  }
+  .ciel-bonafont-epura-san-pelleg {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-13xl);
+  }
+  .ciel-bonafont-epura-container {
+    align-self: stretch;
+    height: 288px;
+    position: relative;
+    font-size: var(--p-regular-size);
+    font-family: var(--small-light);
+    color: var(--negrorosa);
+    display: inline-block;
+  }
+  .bebidas1,
+  .drink-categories4 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .drink-categories4 {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-45xl);
+    min-width: 251px;
+    max-width: 256px;
+  }
+  .bebidas1 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    padding: 0 var(--padding-237xl) var(--padding-45xl);
+    gap: var(--gap-13xl);
+    text-align: left;
+    font-size: var(--h3-semibold-size);
+  }
+  .frame-bebidas,
+  .image-66-icon1 {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .frame-bebidas {
+    background-color: var(--blancorosa);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-13xl);
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--h2-semibold-size);
+    color: var(--blancorosa);
+    font-family: var(--h3-semibold);
+  }
+  .image-66-icon1 {
+    position: relative;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .atencion-al-cliente1,
+  .p2 {
+    margin: 0;
+  }
+  .atencion-al-cliente-container3 {
+    width: 100%;
+  }
+  .atencion-al-cliente-container2 {
+    width: 272px;
+    height: 72px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .insta-icon1,
+  .social-media-icons,
+  .social-media-icons1,
+  .whatsapp-icon1 {
+    height: 80px;
+    width: 80px;
+    position: relative;
+  }
+  .social-media {
+    width: 560px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 var(--padding-5xs) 0 var(--padding-base);
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+    max-width: 100%;
+  }
+  .copyright1 {
+    position: relative;
+    display: inline-block;
+    min-width: 113px;
+  }
+  .certificaciones-de-seguridad1,
+  .poltica-de-privacidad1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .poltica-de-privacidad1 {
+    width: 497px;
+    align-items: center;
+    max-width: 100%;
+  }
+  .certificaciones-de-seguridad1 {
+    width: 321px;
+  }
+  .certificaciones-de-seguridad1,
+  .footer2,
+  .legal-info {
+    align-items: center;
+    max-width: 100%;
+  }
+  .legal-info {
+    width: 1424px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: var(--padding-5xs);
+    box-sizing: border-box;
+    gap: var(--gap-xl);
+  }
+  .footer2 {
+    align-self: stretch;
+    background-color: var(--negrorosa);
+    padding: var(--padding-93xl) var(--padding-93xl) var(--padding-5xl);
+    gap: var(--gap-85xl);
+    flex-shrink: 0;
+    text-align: center;
+    font-size: var(--p-regular-size);
+    color: var(--color-white);
+    font-family: var(--font-raleway);
+  }
+  .footer2,
+  .menu,
+  .secciones1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .secciones1 {
+    align-self: stretch;
+    height: 8218px;
+    align-items: center;
+    padding: 0;
+    max-width: 100%;
+  }
+  .menu {
+    width: 100%;
+    position: relative;
+    background-color: var(--blancorosa);
+    overflow: hidden;
+    align-items: flex-start;
+    padding: 0 0 1016px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1525px) {
+    .entries-description-items2 {
+      flex-wrap: wrap;
+    }
+    .dishes-image-items {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .subtitulo1 {
+      height: auto;
+    }
+    .de-salmn-3-pzas-en-tortilla-d-parent,
+    .flan-servido-con-caramelo-liqu-parent,
+    .sayulita-mezcal-unin-45-ml-parent {
+      flex-wrap: wrap;
+    }
+    .secciones1 {
+      height: auto;
+    }
+  }
+  @media screen and (max-width: 1225px) {
+    .nav-links1 {
+      display: none;
+    }
+    .barra-de-navegacin1,
+    .bebidas1,
+    .h1 {
+      padding-left: var(--padding-37xl);
+      padding-right: var(--padding-37xl);
+      box-sizing: border-box;
+    }
+    .bebidas1,
+    .h1 {
+      padding-left: var(--padding-411xl);
+      padding-right: var(--padding-411xl);
+    }
+    .bebidas1 {
+      padding-left: var(--padding-109xl);
+      padding-right: var(--padding-109xl);
+    }
+    .legal-info {
+      flex-wrap: wrap;
+    }
+    .footer2 {
+      gap: var(--gap-33xl);
+      padding: var(--padding-54xl) var(--padding-37xl) var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 850px) {
+    .nav-links1 {
+      gap: var(--gap-base);
+    }
+    .menu1 {
+      font-size: var(--font-size-24xl);
+    }
+    .entradas {
+      font-size: var(--font-size-19xl);
+    }
+    .subtitulo {
+      padding-top: var(--padding-83xl);
+      padding-bottom: var(--padding-83xl);
+      box-sizing: border-box;
+    }
+    .guacamole-con-chicharrn-container,
+    .guacamole-tradicional-100-container {
+      font-size: var(--font-size-lgi);
+    }
+    .entries-title-items {
+      gap: var(--gap-base);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .aguachile-180-g-container,
+    .tostadas-de-atn-container {
+      font-size: var(--font-size-lgi);
+    }
+    .entries-description-items1 {
+      gap: var(--gap-base);
+    }
+    .albondigas-de-res-container,
+    .torre-de-papas-container {
+      font-size: var(--font-size-lgi);
+    }
+    .entries-description-items3 {
+      gap: var(--gap-base);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .platillos {
+      font-size: var(--font-size-19xl);
+    }
+    .pechuga-de-pollo-container,
+    .pescado-a-la-container {
+      font-size: var(--font-size-lgi);
+    }
+    .dishes-labels {
+      gap: var(--gap-base);
+    }
+    .de-salmn-3-container,
+    .quesabirrias-de-short-container {
+      font-size: var(--font-size-lgi);
+    }
+    .dishes-labels1 {
+      gap: var(--gap-base);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .cocteles {
+      font-size: var(--font-size-19xl);
+    }
+    .subtitulo2 {
+      padding-top: var(--padding-83xl);
+      padding-bottom: var(--padding-83xl);
+      box-sizing: border-box;
+    }
+    .axolote-copper-whisky-container,
+    .axolote-leucistico-bacanora-container {
+      font-size: var(--font-size-lgi);
+    }
+    .cocktails-labels {
+      gap: var(--gap-base);
+    }
+    .la-colorada-tequila-container,
+    .sayulita-mezcal-unin-container {
+      font-size: var(--font-size-lgi);
+    }
+    .cocktails-labels1 {
+      gap: var(--gap-base);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .postres {
+      font-size: var(--font-size-19xl);
+    }
+    .subtitulo3 {
+      padding-top: var(--padding-83xl);
+      padding-bottom: var(--padding-83xl);
+      box-sizing: border-box;
+    }
+    .pastel-de-chocolate-container,
+    .pastel-de-tres-container {
+      font-size: var(--font-size-lgi);
+    }
+    .label-parent {
+      gap: var(--gap-base);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .flan-servido-con-container,
+    .pan-de-elote-container {
+      font-size: var(--font-size-lgi);
+    }
+    .label-group {
+      gap: var(--gap-base);
+    }
+    .molten-de-chocolate-container,
+    .platano-horneado-servido-container {
+      font-size: var(--font-size-lgi);
+    }
+    .label-container {
+      gap: var(--gap-base);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .bebidas {
+      font-size: var(--font-size-19xl);
+    }
+    .subtitulo4 {
+      padding-top: var(--padding-83xl);
+      padding-bottom: var(--padding-83xl);
+      box-sizing: border-box;
+    }
+    .naranja-sandia-manzana-container {
+      font-size: var(--font-size-lgi);
+    }
+    .drink-categories {
+      gap: var(--gap-13xl);
+    }
+    .coca-cola-coca-container {
+      font-size: var(--font-size-lgi);
+    }
+    .drink-categories1 {
+      gap: var(--gap-13xl);
+    }
+    .americano-expreso-capuchino-container {
+      font-size: var(--font-size-lgi);
+    }
+    .drink-categories2 {
+      gap: var(--gap-13xl);
+    }
+    .manzanilla-verde-lavanda-container {
+      font-size: var(--font-size-lgi);
+    }
+    .drink-categories3 {
+      gap: var(--gap-13xl);
+    }
+    .ciel-bonafont-epura-container {
+      font-size: var(--font-size-lgi);
+    }
+    .drink-categories4 {
+      gap: var(--gap-13xl);
+    }
+    .atencion-al-cliente-container2 {
+      font-size: var(--font-size-lgi);
+    }
+    .social-media {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .certificaciones-de-seguridad1,
+    .copyright1,
+    .poltica-de-privacidad1 {
+      font-size: var(--font-size-lgi);
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .barra-de-navegacin1 {
+      padding-left: var(--padding-9xl);
+      padding-right: var(--padding-9xl);
+      box-sizing: border-box;
+    }
+    .menu1 {
+      font-size: var(--font-size-39xl);
+    }
+    .h1 {
+      padding-left: var(--padding-196xl);
+      padding-right: var(--padding-196xl);
+      box-sizing: border-box;
+    }
+    .entradas {
+      font-size: var(--font-size-32xl);
+    }
+    .entries-description-items {
+      gap: var(--gap-base);
+    }
+    .entries-title-items {
+      gap: var(--gap-13xl);
+    }
+    .aguachile-180-g-container,
+    .tostadas-de-atn-container {
+      min-width: 100%;
+    }
+    .entries-description-items2 {
+      gap: var(--gap-base);
+    }
+    .entries-description-items1 {
+      gap: var(--gap-13xl);
+    }
+    .albondigas-de-res-container,
+    .torre-de-papas-container {
+      min-width: 100%;
+    }
+    .entries-description-items4 {
+      gap: var(--gap-base);
+    }
+    .entries-description-items3 {
+      gap: var(--gap-13xl);
+    }
+    .frame-entradas {
+      gap: var(--gap-base);
+    }
+    .platillos {
+      font-size: var(--font-size-32xl);
+    }
+    .dishes-descriptions {
+      gap: var(--gap-base);
+    }
+    .dishes-labels {
+      gap: var(--gap-13xl);
+    }
+    .de-salmn-3-container,
+    .quesabirrias-de-short-container {
+      min-width: 100%;
+    }
+    .de-salmn-3-pzas-en-tortilla-d-parent {
+      gap: var(--gap-base);
+    }
+    .dishes-labels1 {
+      gap: var(--gap-13xl);
+    }
+    .frame-platillos {
+      gap: var(--gap-base);
+    }
+    .cocteles {
+      font-size: var(--font-size-32xl);
+    }
+    .cocktail-descriptions {
+      gap: var(--gap-base);
+    }
+    .cocktails-labels {
+      gap: var(--gap-13xl);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .la-colorada-tequila-container,
+    .sayulita-mezcal-unin-container {
+      min-width: 100%;
+    }
+    .sayulita-mezcal-unin-45-ml-parent {
+      gap: var(--gap-base);
+    }
+    .cocktails-labels1 {
+      gap: var(--gap-13xl);
+    }
+    .frame-cocteles {
+      gap: var(--gap-base);
+    }
+    .postres {
+      font-size: var(--font-size-32xl);
+    }
+    .pastel-de-chocolate-con-browni-parent {
+      gap: var(--gap-base);
+    }
+    .label-parent {
+      gap: var(--gap-13xl);
+    }
+    .flan-servido-con-container,
+    .pan-de-elote-container {
+      min-width: 100%;
+    }
+    .flan-servido-con-caramelo-liqu-parent {
+      gap: var(--gap-base);
+    }
+    .label-group {
+      gap: var(--gap-13xl);
+    }
+    .molten-de-chocolate-container,
+    .platano-horneado-servido-container {
+      min-width: 100%;
+    }
+    .molten-de-chocolate-con-frutos-parent {
+      gap: var(--gap-base);
+    }
+    .label-container {
+      gap: var(--gap-13xl);
+    }
+    .frame-postres {
+      gap: var(--gap-base);
+    }
+    .bebidas {
+      font-size: var(--font-size-32xl);
+    }
+    .bebidas1 {
+      padding-left: var(--padding-45xl);
+      padding-right: var(--padding-45xl);
+      padding-bottom: var(--padding-23xl);
+      box-sizing: border-box;
+    }
+    .bebidas1,
+    .frame-bebidas {
+      gap: var(--gap-base);
+    }
+    .footer2 {
+      gap: var(--gap-7xl);
+      padding-left: var(--padding-9xl);
+      padding-top: var(--padding-28xl);
+      padding-right: var(--padding-9xl);
+      box-sizing: border-box;
+    }
+  }
+  
